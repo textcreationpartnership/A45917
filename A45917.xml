@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Inscription intended to be set up for the E--l of R---r, when by the happy effects of his ministry, the chappel of St. Stephen's is become a chappel to the Jesuites to the eternal memory of L--e E-l of R-r.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45917</idno>
+            <idno type="STC">Wing I224</idno>
+            <idno type="STC">ESTC R15001</idno>
+            <idno type="EEBO-CITATION">13343972</idno>
+            <idno type="OCLC">ocm 13343972</idno>
+            <idno type="VID">99150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 458:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Inscription intended to be set up for the E--l of R---r, when by the happy effects of his ministry, the chappel of St. Stephen's is become a chappel to the Jesuites to the eternal memory of L--e E-l of R-r.</title>
+                  <author>Rochester, Laurence Hyde, Earl of, 1641-1711.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Inscription", in verse, dated 1701.</note>
+                  <note>"Translation of the L[aurence] H[yde]s speech, now the E. of R[ocheste]r, to the King of Poland, 1677": p. 6-8.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99150:1" rendition="simple:additions"/>
+            <p>AN INSCRIPTION Intended to be ſet up for the E—l of R—r, WHEN By the HAPPY EFFECTS of his MINISTRY, THE Chappel of St. <hi>STEPHEN's</hi> is become a Chappel to the JESUITES.</p>
+            <p>Approv'd by the GENERAL, By Father <hi>L' Chaiſe,</hi> And the Colledge at the Fleche.</p>
+            <p>TO The Eternal Memory OF L—e E—l of R—r.</p>
+            <p>Printed in the Year, &amp;c.</p>
+         </div>
+      </front>
+      <body>
+         <div type="inscription">
+            <pb facs="tcp:99150:2"/>
+            <pb n="3" facs="tcp:99150:2" rendition="simple:additions"/>
+            <head>AN INSCRIPTION INTENDED To be ſet up for the E—l of R—r.</head>
+            <p>A Perſon form'd by the Stars for daring Exploits.<lb/>
+Inſpired by the happy Genius of our Society,<lb/>
+And by the Inſolence of his own Temper fitted for Ar<g ref="char:EOLhyphen"/>bitrary Power.<lb/>
+A Conſtant Friend to <hi>France</hi> in all Reigns,<lb/>
+A True lover of Tyranny in all Perſons;<lb/>
+An Enemy to Moderation in all Times.<lb/>
+Not Obſcuring, but exceeding the Merits of his Father,<lb/>
+Whoſe Sale of <hi>Dunkirk</hi> ought not to be nam'd with that of Three Kingdoms,<lb/>
+And All EUROPE.<lb/>
+               <hi>Clarendon</hi> procured a barren Queen,<lb/>
+And raiſed his Daughter to be a Princeſs.<lb/>
+But his Son projected greater things in his Family,<lb/>
+Which made him cut the <hi>Gordian</hi> knot of Three leaves out of his Accounts. *<lb/>
+Firſt to make his Daughters Dutcheſſes,<lb/>
+And then Queens.<lb/>
+By Marrying one to the Earl of <hi>Dalkeith</hi> for <hi>England,</hi>
+               <lb/>
+Another to the Duke of <hi>Ormond</hi> for <hi>Ireland.</hi>
+               <lb/>
+And offering a Third to the Earl of <hi>Arran</hi> for <hi>Scotland.</hi>
+               <lb/>
+Thus to take in all Titles,<lb/>
+In which he was ſure of our ſupport.<lb/>
+He was early initiated in our Tremendous Myſteries,<lb/>
+And always active to promote our holy Cauſe:<lb/>
+               <pb n="4" facs="tcp:99150:3"/>Or to attempt the ſame at <hi>Dantzick,</hi> and the Cities of <hi>Pruſſia.</hi> Sent to Countermine Sir <hi>William Temple's</hi> ſin<g ref="char:EOLhyphen"/>cere deſigns.<lb/>
+Securing to <hi>France</hi> what he intended for <hi>Spain.</hi>
+               <lb/>
+And betraying the <hi>Dutch,</hi> the better to ſubdue the <hi>Engliſh.</hi>
+               <lb/>
+Nurs'd with the Milk of Slavery,<lb/>
+A Penſioner to <hi>Lewis</hi> the Great,<lb/>
+An Enemy to the <hi>Engliſh</hi> Conſtitution,<lb/>
+And the Rapacious Oppreſſor of his fellow Subjects,<lb/>
+Which made a ſtubborn Parliament<lb/>
+Vote him a Foe to the King and Kingdom,<lb/>
+One of the Fam'd <hi>Triumvirate,</hi>
+               <lb/>
+               <hi>S—d, G—n, Lory,</hi>
+               <lb/>
+Whoſe late good Fortune ſhall obtain Credit for all future Propheſie.<lb/>
+So great a Favourite of the D. of <hi>York,</hi>
+               <lb/>
+As to be ſuſpected to K. <hi>Ch.</hi> 2d.<lb/>
+Whoſe ſeaſonable and unnatural Death<lb/>
+Prevented our Hero's Baniſhment and Diſgrace:<lb/>
+He was Ld. High Treaſurer,<lb/>
+And firſt Miniſter of State<lb/>
+To our Bleſſed Diſciple and Confeſſor,<lb/>
+The Martyrs Son <hi>James</hi> the Juſt.<lb/>
+When he bravely laid aſide the uſe of Parliaments,<lb/>
+And Arbitrarily Levy'd Taxes by his own Authority:<lb/>
+Firſt Layman in the high Commiſſion Court,<lb/>
+The Nobleſt Machine of it ſelf to diſpatch the Refor<g ref="char:EOLhyphen"/>mation. But a Thouſand times more effectual under ſuch a Manager. The warmth of whoſe temper might kindle all our Fires.<lb/>
+He ſtoutly oppos'd the Abdication,<lb/>
+The Bill of Abjuration and Recognition.<lb/>
+Theſe 12 Years he hath been a Clog on the Wheel, to ſpoil the buſineſs of the Pr. of <hi>Orange.</hi> Averſe to all Endeavours for enlarging Liberty: Or better ſecu<g ref="char:EOLhyphen"/>ring the Proteſtant Religion.<lb/>
+               <pb n="5" facs="tcp:99150:3"/>But above all, and for the ſake of all,<lb/>
+His Maſter ſtroke muſt Eternally Shine in our Annals, the Getting himſelf to be firſt Miniſter to King <hi>William<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <lb/>
+Tho Brother in Law to K. <hi>James.</hi>
+               <lb/>
+And notwithſtanding his late, or old behaviour, whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is an Attempt even to be envy'd by a <hi>Jeſuit.</hi>
+               <lb/>
+The Secretary of the High Commiſſion,<lb/>
+He has made a Secretary of State.<lb/>
+Being ſoon after to bring the whole Commiſſion int<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Miniſtry.<lb/>
+To this we Owe,<lb/>
+The Seaſonable Diſſolution of the laſt Parliamen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which gave a happy opportunity to the King of <hi>Franc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to make his Grand-Son Vice Roy of <hi>Spain.</hi>
+               <lb/>
+Kept the <hi>Dutch</hi> Hereticks unreſolv'd,<lb/>
+And the <hi>Engliſh</hi> Hereticks unprepar'd.<lb/>
+Weakning their Conduct by the Adminiſtration in h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own Hands, Lulling them aſleep, Diſpiriting, and M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nacing all,<lb/>
+By his Truſty Emiſſaries, and fellow Conſpirators.<lb/>
+This hindred the Friends of Liberty from lending M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ney; being reſolv'd to refuſe it while he Govern'd, lea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it ſhould be a Cauſe to hang them if his Plot Succeede<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <lb/>
+By theſe means,<lb/>
+And our Aſſiſtance,<lb/>
+He meant to accompliſh as ſudden a Change,<lb/>
+And with as little Oppoſition,<lb/>
+As the late Curs'd Revolution.<lb/>
+For which Services,<lb/>
+As well as other Innumerable,<lb/>
+And his ſtriking the great Blow for Univerſal Monarch<lb/>
+Which is now on the point of being Eſtabliſhed:<lb/>
+The Society is bound to acknowledge,<lb/>
+Eternal Gratitude.</p>
+            <closer>
+               <dateline>
+                  <date>1701.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="6" facs="tcp:99150:4"/>
+            <head>Tranſlation of the L—d H—s Speech, now E. of <hi>R—r,</hi> to the King of <hi>Poland,</hi> 1677.</head>
+            <opener>
+               <salute>Moſt Illuſtrious Prince,</salute>
+            </opener>
+            <q>
+               <p>THE King my Maſter has commanded me to let your Majeſty know, the Reſolution he hath taken to concur in all points with the moſt Chriſtian King, giving your Majeſty all poſſible aſſurance in the Eſtabliſhing your Majeſties Title; in ſuch ways as your Majeſty ſhall judge moſt Effectual to the ſecuring your Crown and Dignity, and the further honour and ſafety of the Queen and the Royal Iſſue.</p>
+               <p>The King my Maſter is truly ſenſible of the great miſ<g ref="char:EOLhyphen"/>fortune of thoſe Princes whoſe power muſt be bounded, and Reaſon regulated by the Fantaſtick humours of their Sub<g ref="char:EOLhyphen"/>jects. Till Princes come to be free'd from theſe Inconve<g ref="char:EOLhyphen"/>niences, the King my Maſter ſees no probable proſpect of Eſ<g ref="char:EOLhyphen"/>tabliſhing <hi>The moſt Holy Apoſtolick Rom. Cath. Religion.</hi>
+               </p>
+               <p>In order to your Majeſties affairs, the King my Maſter has written to the Kings of <hi>Sweden</hi> and <hi>Denmark,</hi> to the Elector of <hi>Brandenburgh,</hi> and other his Majeſties Allies, in thoſe Parts; that notwithſtanding the Wars and diffe<g ref="char:EOLhyphen"/>rences betwxt thoſe Princes, they afford your Majeſty all poſ<g ref="char:EOLhyphen"/>ſible Aſſiſtance in your Majeſties pretenſions to <hi>Dantzick.</hi> He has alſo oblidg'd the Prince of <hi>Orange</hi> to divert the States of the united Provinces, from Interpoſing in that Affair, either by diſſwading your Majeſty, or giving Aſſiſtance to the Rebellious Inclinations of thoſe Citizens of <hi>Dantzick.</hi>
+               </p>
+               <p>The King my Maſter has commanded me to aſſure your Majeſty, that as ſoon as he can diſpoſe of affairs; ſo as to Effect a General Peace (the ſpeedy acompliſhment of which he doubts not of, the moſt Chriſtian King having left the
+<pb n="7" facs="tcp:99150:4"/>
+whole affair in his hands) he dos not queſtion, but by the Aſ<g ref="char:EOLhyphen"/>ſiſtance and Concurrence of the Kings and Princes concern'd, to put an end to all the frivolous and vain pretenſions, not only of the Free and Hans Towns, but alſo of the <hi>Dutch</hi> Republique, who have upon all occaſions, not only threatned the Prince of <hi>Orange,</hi> but alſo the Kings and Princes in theſe parts of the World; their pretended Liberty having been of pernitious Conſequence by their Rebellious Example. And for the better Effecting thoſe good ends that are wiſh'd for and deſired (the particulars of which I ſhall ſet down more hereafter) I am Commanded by the King my Maſter, to joyn with the moſt Chriſtian Kings Ambaſſador in this Court, the Count de <hi>Bethune,</hi> to deſire your Majeſty to give what Succours can be afforded from this Kingdom, in order to the giving Life to the <hi>Male Contents</hi> in <hi>Hungary,</hi> the better to diſpoſe the Emperour and the Confederates to ac<g ref="char:EOLhyphen"/>cept of ſuch tearms of Peace, as ſhall be judged reaſonable for your Majeſties Service and Intereſt, and the other good ends before premiſed.</p>
+            </q>
+            <p>That you may no longer doubt of the truth of the Murther of King <hi>Ch.</hi> 2<hi>d.</hi> I ſend you here the plain ſtory as it came from one of the Gent. who was daily con<g ref="char:EOLhyphen"/>cerned in that Villainous Action; which take as fol<g ref="char:EOLhyphen"/>loweth, <hi>viz.</hi>* A few days before King <hi>Charles</hi> the 2<hi>d's</hi> Death, the then Lord <hi>Hallifax</hi> informed his Majeſty of ſome miſmanagement in the Treaſury; upon which the King went with him to the Treaſury (this was upon Thurſday the 29 of <hi>January</hi> 1684/5.) and examin<g ref="char:EOLhyphen"/>ing ſome of the Books, found Three Leaves cut out of one of them, and upon comparing that with ſome o<g ref="char:EOLhyphen"/>ther Books, the Sum wanting, and which could not be Accounted for, was found to be 80000 l. This put the King in ſuch a heat, that he declared the Parties con<g ref="char:EOLhyphen"/>cern'd, ſhould be puniſh'd with the utmoſt ſeverity the Law would allow; and the day after being Friday, he had ſome high words with the D. of <hi>York</hi> in the privy Garden upon it, and was heard to ſay to the D. that the
+<pb n="8" facs="tcp:99150:5" rendition="simple:additions"/>
+next day he ſhould go to <hi>Scotland;</hi> to which the D. re<g ref="char:EOLhyphen"/>ply'd By G—d he would not. The next day (being Saturday) Mr. <hi>Kingdon</hi> (who, with M. <hi>Bridges</hi> and Mr. <hi>Patrick Trant,</hi> are ſaid to have been concern'd in the Imbezlement of the 80000 <hi>l.</hi>) came to Dr. <hi>Hobbs,</hi> and told him there was going to be an Inquiſition made in ſome Accounts, which might perhaps be his ruin, he therefore deſired the Dr. to accept of a preſent of 4000 <hi>l.</hi> which he would freely give him without Re<g ref="char:EOLhyphen"/>ceipt, or any conſideration whatſoever, and left it to the Drs. Generoſity, in caſe he ſhould ſuffer by the ſaid Inquiſition, to be kind to his Family. The Dr. for ſome reaſons excus'd himſelf, but told him he would procure him two of his Freinds on whom he might intirely re<g ref="char:EOLhyphen"/>ly, who ſhould accept of the offer, and for whoſe Ge<g ref="char:EOLhyphen"/>neroſity he durſt anſwer: To which Mr. <hi>Kingdon</hi> agree'd, the Friends were ſpoke to (who were Mr. <hi>Edmond Wal<g ref="char:EOLhyphen"/>ler,</hi> and Mr. <hi>William Clark;</hi> and they were appointed to be on the Monday following, at Eleven of the Clock at Noon, in a Coach at a certain place, where 2000 <hi>l.</hi> a piece were to be deliver'd to them without Receipt, or without knowing the Perſon who was to give it them; it was only left to them to be kind to <hi>Kingdons</hi> Family if he were brought into trouble: They (Mr. <hi>Waller,</hi> and Mr. <hi>Clark</hi>) went accordingly, and ſtay'd in the Coach from Eleven of the Clock till Three, but no Mony came; whereupon they went home, and the firſt news they heard was, that the King was ſuddenly taken with a Fit of an Apoplexy; which we may ſuppoſe was the reaſon the Money was not brought, according to agreement. The King continued ill, till the Friday following, which was the Sixth of <hi>February</hi> 1684/5. and then Dyed, which put a ſtop to the intended Inquiſition. And may Kings never be uſed better who Employ ſuch Miniſters.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
